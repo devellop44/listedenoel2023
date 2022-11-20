@@ -1,0 +1,65 @@
+button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: yellow;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    align-items: center;
+    align-items: center;
+  }
+  .alert {
+    padding: 20px; 
+    background-image: url("https://www.terredesmomes.com/wp-content/uploads/2018/10/Bandeau-noel-1.jpg");
+    color: white;
+    margin-bottom: 15px;
+    border-radius: 15px;
+  }
+  
+  /* The close button */
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 12px;
+  }
+  
+  /* When moving the mouse over the close button */
+  .closebtn:hover {
+    color: blueviolet;
+  }
+
+  h1 {
+    text-align: center;
+    background-color: antiquewhite;
+    background-position-x: left;
+    border-radius: 15px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: aqua;
+  }
+
+  h3 {
+    color: black;
+    background-color: beige;
+    border-radius: 9px;  
+    size: 10px;
+    text-align: center;
+  }
+  emailerreur {
+    text-align: center;
+  }
+
+  h4 {
+    text-align: center;
+  }
